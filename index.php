@@ -20,14 +20,6 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="row">
-                                <div class="col-md-7" 
-                                style= "padding: 50px 15px; color: white;">
-                                <div class="panel panel-default">
-                                <h6 class="panel-name">Tugas : Aplikasi WEB Caesar Chiper</h6>
-                                <h6 class="panel-name">Dosen : Irfan Syamsuddin ST, PG.Dipl.BEC, M.Com.ISM,Ph.D </h6>
-                                <h6 class="panel-name">Nama  : Hasri Ainun Eka Pertiwi</h6>
-                                <h6 class="panel-name">NIM   : 42517008</h6>
-                                </div>
                                 <div class="col-md-5" style= "padding: 10px; color: white;">
                                     <!-- start Form Enkripsi -->
                                     <form action="" method="post" style="padding: 0px; margin: 0 auto;">
@@ -163,10 +155,10 @@
                   <hr class="w-100 clearfix d-md-none">
                   <!--Fourth column-->
                   <div class="col-md-6 col-lg-6 col-xl-6 mx-auto mt-3">
-                      <h6 class="text-uppercase mb-2 font-weight-bold">Kontak</h6>
-                      <i class="fa fa-home"></i>Politeknik Negeri Ujung Pandang<br/>
-                      <i class="fa fa-envelope"></i> hasri.ainuneka@gmail.com
-                      <i class="fa fa-phone"></i> Hasrikaa (line)
+                     <h6 class="panel-name">Tugas : Aplikasi WEB Caesar Chiper</h6>
+                                <h6 class="panel-name">Dosen : Irfan Syamsuddin ST, PG.Dipl.BEC, M.Com.ISM,Ph.D </h>
+                                <h6 class="panel-name">Nama  : Hasri Ainun Eka Pertiwi</h6>
+                                <h6 class="panel-name">NIM   : 42517008</h6>
                   </div>
               </div>
               <hr>
