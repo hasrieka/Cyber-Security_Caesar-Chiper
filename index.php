@@ -20,15 +20,6 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="row">
-                                <div class="col-md-5" style= "padding: 10px; color: white;">
-                                    <!-- start Form Enkripsi -->
-                                    <form action="" method="post" style="padding: 0px; margin: 0 auto;">
-                                    <input class="form-control smooth text-center" placeholder="Kunci" name="kunci" type="text" style="width: 100%; height:50px; margin-bottom:15px;"/>
-                                    <textarea class="form-control smooth text-center" rows="3" name="pesan" id="pesan" placeholder="Ketikan Pesan.."></textarea>
-                                    <input type="submit" name="klik" value="Run"  class="smooth cari btn btn-info btn-circle btn-lg" style="background-color: #4b4b4b; border-color: #383838; margin-top:15px;">
-                                    </form>
-                                    <!-- End Form Enkripsi -->
-                                </div>
                             </div>
                         </div>
                     </div>
